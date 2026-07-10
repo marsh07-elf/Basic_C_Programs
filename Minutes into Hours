@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+printf("***MINUTES INTO HOURS***\n");
+int minutes;
+float hours;
+printf("Enter the minutes:");
+scanf("%d",&minutes);
+hours=minutes/60;
+printf("The total hours is %.2f\n",hours);
+return 0;
+}
+*/ OUTPUT
+*/ ***MINUTES INTO HOURS***
+*/ Enter the minutes:12483
+*/ The total hours is 208.00
