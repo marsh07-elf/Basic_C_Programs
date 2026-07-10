@@ -10,3 +10,8 @@ int main()
    printf("\nYour distance is %.f metres and %.f centimeters\n",m,cm);
    return 0;
 }
+*/ OUTPUT
+*/ ***KILOMETERS INTO METRES AND CENTIMETERS***
+*/ Enter your distance in Kilometers:
+*/ 12
+*/ Your distance is 12000 metres and 1200000 centimeters
